@@ -1,8 +1,9 @@
----
+        ---
 authors:
 - admin
 bio: My research interests include distributed robotics, mobile computing and programmable
   matter.
+  
 education:
   courses:
   - course: PhD in Artificial Intelligence
@@ -19,11 +20,11 @@ interests:
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
-name: Nelson Bighetti
+name: Colectivo UMA
 organizations:
-- name: Stanford University
+- name: BOLIVIA 
   url: ""
-role: Professor of Artificial Intelligence
+role: Senkata - El Alto
 social:
 - icon: envelope
   icon_pack: fas
@@ -43,6 +44,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Somos jovenes comprometidos acompañar a las nuevas miradas de transformación social así como nuevas perspectivas, nuevas visiones ideológicas, filosóficas, políticas sociales,  culturales, educaciónes científicas   y acciones de la comunidad visto que  muchos movimientos , colectivos , grupos  y centros culturales enfrentan la inclusión y limitación sufridas  en esta sociedad que es vulnerable ante la Globalización cual exige una nueva relación entre el Estado y la Sociedad Civil así como nuevas iniciativas desde la vanguardia de la juventud.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
